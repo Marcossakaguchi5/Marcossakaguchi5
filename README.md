@@ -99,9 +99,13 @@ Experience with Docker, Portainer, Traefik, Linux VPS, Oracle Cloud and AWS for 
 
 <div align="center">
 
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Marcossakaguchi5&show_icons=true&count_private=true&hide_border=true&title_color=5568F2&icon_color=5568F2&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats" />
+<a href="https://github.com/Marcossakaguchi5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcossakaguchi5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+</a>
 
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcossakaguchi5&layout=compact&hide_border=true&title_color=5568F2&text_color=c9d1d9&bg_color=0D1117" alt="Top languages" />
+<a href="https://github.com/Marcossakaguchi5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcossakaguchi5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</a>
 
 </div>
 
